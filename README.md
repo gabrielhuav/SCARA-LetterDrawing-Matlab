@@ -48,4 +48,6 @@ The Matlab code can be run directly in any Matlab environment that has the Robot
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue. I also challenge anyone to use the [Python version of Peter Corke's Robotics Toolbox](https://petercorke.com/toolboxes/robotics-toolbox/) and contribute to this project.
+Contributions are welcome! Please feel free to submit a pull request or open an issue. I also challenge anyone to use the [Python version of Peter Corke's Robotics Toolbox](https://github.com/petercorke/robotics-toolbox-python/) and contribute to this project.
+
+![image](https://github.com/gabrielhuav/SCARA-LetterDrawing-Matlab/assets/71236850/f059ba1c-4919-4fd7-a2e7-5ab6bcc4015b)
